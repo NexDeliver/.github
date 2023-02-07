@@ -1,6 +1,12 @@
 # NexDeliver
 
+![An illustration showing people using the apps and tools created by the nexdeliver](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
+
 Discover, shop and have your items delivered to your door with NexDeliver - your local shopping concierge.
+
+
+NexDeliver is a web app that helps users discover products and items in their local area and get them delivered to their home. Our goal is to make the shopping and delivery experience seamless and convenient for everyone.
+
 
 ## Contributing to the Ecosystem
 
