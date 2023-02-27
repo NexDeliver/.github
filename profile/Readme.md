@@ -1,6 +1,6 @@
 # NexDeliver
 
-![An illustration showing people using the apps and tools created by the nexdeliver](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
+<img src="https://github.com/NexDeliver/about/blob/main/Details/NexDeliver.svg" alt="logo" width="350" height="350">
 
 Discover, shop and have your items delivered to your door with NexDeliver - your local shopping concierge.
 
